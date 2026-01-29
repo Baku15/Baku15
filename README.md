@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Backend / Frontend</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot+Developer;Angular+Frontend+Developer; Construyendo+Aplicaciones+Web+Escalables;Siempre+Aprendiendo" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=500&lines=Java+%26+Spring+Boot+Developer;Angular+Frontend+Developer;Construyendo+Aplicaciones+Web+Escalables;Siempre+Aprendiendo" />
 </p>
 
 ---
