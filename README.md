@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Ingeniero de Sistemas (egresado)  
+- 🎓 Ingeniero de Sistemas
 - 💻 Desarrollador Full Stack con enfoque en Backend  
 - ⚙️ Experiencia construyendo APIs REST, sistemas web y arquitecturas escalables  
 - 🚀 Me motiva crear soluciones alineadas a necesidades reales y buenas prácticas  
